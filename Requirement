@@ -1,0 +1,8 @@
+TO SETUP ROBOT FRAMEWORK FOR API AUTOMATION
+
+robotframework
+requests
+robotframework-requests
+robotframework-jsonlibrary
+>pip install jsonpath_rw_ext
+>pip install jsonpath_rw
